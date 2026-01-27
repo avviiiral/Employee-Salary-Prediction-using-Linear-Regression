@@ -51,3 +51,16 @@ The goal is to understand the relationship between experience and salary and bui
 ---
 
 ## 📁 Project Structure
+├── Dataset09-Employee-salary-prediction.csv
+├── salary pred linear regration.ipynb
+└── README.md
+
+
+---
+
+## 🚀 How to Run the Project
+1. Clone or download the repository
+2. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook
+
