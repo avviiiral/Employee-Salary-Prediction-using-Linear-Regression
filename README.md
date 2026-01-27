@@ -52,12 +52,11 @@ The goal is to understand the relationship between experience and salary and bui
 
 ## 📁 Project Structure
 
-'''
-├── Dataset09-Employee-salary-prediction.csv
-├── salary pred linear regration.ipynb
-└── README.md
-'''
 
+│
+├── data.csv                          
+├── brest cancer neural network.ipynb 
+├── README.md                         
 ---
 
 ## 🚀 How to Run the Project
